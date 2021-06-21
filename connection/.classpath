@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/mysql-connector-java-5.1.48/mysql-connector-java-5.1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/mysql-connector-java-5.1.48/rs2xml.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/itext/itextpdf-5.5.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/itext/iText7-Core-7.1.4/font-asian-7.1.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
